@@ -20,7 +20,15 @@ Social:
   <a href="https://twitter.com/你的Twitter用户名" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" />
   </a>
-  <a href="https://weibo.com/你的微博ID" target="_blank">
-    <img src="https://img.shields.io/badge/Weibo-%23E6162D.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white" alt="Weibo" />
+    <a href="https://www.facebook.com/你的Facebook用户名" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" height="40" />
+  </a>
+  <!-- Quora -->
+  <a href="https://www.quora.com/profile/你的Quora用户名" target="_blank">
+    <img src="https://raw.githubusercontent.com/Fluorine-Brian/Fluorine-Brian/refs/heads/main/assets/quora.svg" alt="Quora" width="40" height="40" />
+  </a>
+  <!-- 小红书 -->
+  <a href="https://www.xiaohongshu.com/user/profile/你的小红书ID" target="_blank">
+    <img src="https://raw.githubusercontent.com/Fluorine-Brian/Fluorine-Brian/refs/heads/main/assets/xiaohongshu.svg" alt="Xiaohongshu" width="40" height="40" />
   </a>
 </p>
